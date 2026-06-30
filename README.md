@@ -115,7 +115,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="instagram.com/_the_m_u_k_t_a_02_/?hl=en">
+<a href="https://www.instagram.com/_the_m_u_k_t_a_02_">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
