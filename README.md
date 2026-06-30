@@ -15,7 +15,7 @@
 ## 👩‍💻 About Me
 
 - 🎓 B.Tech in Computer Science & Engineering
-- 📬 Email: **muktapl296@gmail.com**
+- 📬 Email: **muktapal296@gmail.com**
 - 🤖 Passionate about **Artificial Intelligence & Machine Learning**
 - 💡 Interested in building intelligent systems using data
 - 🌱 Currently learning **Python, Machine Learning, Data Structures & Algorithms**
