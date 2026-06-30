@@ -15,12 +15,12 @@
 ## 👩‍💻 About Me
 
 - 🎓 B.Tech in Computer Science & Engineering
+- 📬 Email: **muktapl296@gmail.com**
 - 🤖 Passionate about **Artificial Intelligence & Machine Learning**
 - 💡 Interested in building intelligent systems using data
 - 🌱 Currently learning **Python, Machine Learning, Data Structures & Algorithms**
 - 🚀 Continuously improving my programming and problem-solving skills
 - 🤝 Open to collaborating on AI/ML and Open Source projects
-
 ---
 
 ## 🛠️ Tech Stack
@@ -105,10 +105,6 @@
 
 <a href="https://github.com/codebymuktaa">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://mail.google.com/mail/u/0/#inbox">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/mukta-pal-88a999395/">
